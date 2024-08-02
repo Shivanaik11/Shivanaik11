@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on drop
 - 🌱 I’m currently learning **Jetson Nano**
-
 - 📫 How to reach me **shivanvnaik11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

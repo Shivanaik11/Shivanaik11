@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Engineer.</h3>
 
 - 🔭 I’m currently working on drop
-- 🌱 I’m currently learning **OpenCV,Tesseract OCR**
+- 🌱 I’m currently learning **Jetson Nano**
 
 - 📫 How to reach me **shivanvnaik11@gmail.com**
 
